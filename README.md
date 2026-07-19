@@ -119,20 +119,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 👩‍💻 Connect with Me
-
-**Ameera Iqbal**
-
-[![GitHub](https://img.shields.io/badge/GitHub-@Ameeralqbal-181717?style=for-the-badge&logo=github)](https://github.com/Ameeralqbal)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameera%20Iqbal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ameera-iqbal-31b179419)
-
-[![Email](https://img.shields.io/badge/Email-ameeraiqabal354%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ameeraiqabal354@gmail.com)
-
-📚 **2nd Semester** · BS Information Technology · UMT
-
----
-
 ## 📄 License
 
 MIT — use it freely, just give credit 😊
