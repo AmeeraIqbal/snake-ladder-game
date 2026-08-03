@@ -3,11 +3,8 @@
 > A classic two-player board game with a twist — roll the dice, climb ladders, avoid snakes, and watch out for consecutive sixes!
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/Semester-2nd-orange?style=for-the-badge)
-
----
 
 ## 📖 About
 
@@ -15,7 +12,6 @@ This is a **two-player Snake and Ladder** game built in C++ as my 2nd semester p
 
 **👩‍💻 Author:** Ameera Iqbal — BS IT, UMT (2026)
 
----
 
 ## ✨ Features
 
@@ -26,7 +22,6 @@ This is a **two-player Snake and Ladder** game built in C++ as my 2nd semester p
 - 🛑 Overshoot protection (can't go past 100)  
 - 🏆 First to reach exactly 100 wins!
 
----
 
 ## 🎮 Quick Rules
 
@@ -38,8 +33,6 @@ This is a **two-player Snake and Ladder** game built in C++ as my 2nd semester p
 | Ladders | 8→26, 21→82, 43→77, 50→91 |
 | Snakes | 44→22, 62→18, 95→51, 98→13 |
 | Sixes | Odd consecutive sixes (3,5,7...) are discarded |
-
----
 
 ## 🚀 How to Run
 
@@ -56,8 +49,6 @@ snake_ladder.exe    # Windows
 
 Or just open the `.cpp` file in **Dev C++**, **CodeBlocks**, or **VS Code** and hit **Run**!
 
----
-
 ## 🎮 How to Play
 
 1. Launch the game  
@@ -65,8 +56,6 @@ Or just open the `.cpp` file in **Dev C++**, **CodeBlocks**, or **VS Code** and 
 3. Player 2 does the same — take turns  
 4. Watch for snakes, ladders, and sixes!  
 5. First to hit 100 wins 🏆
-
----
 
 ## 📚 What I Learned
 
@@ -76,16 +65,12 @@ Or just open the `.cpp` file in **Dev C++**, **CodeBlocks**, or **VS Code** and 
 - Conditional logic for special rules  
 - Building engaging console interactions
 
----
-
 ## 🚀 What's Next?
 
 - Random dice roll instead of manual input  
 - GUI version with a visual board  
 - AI opponent  
 - Save/Load game feature  
-
----
 
 ## 🤝 Contributing
 
@@ -117,13 +102,6 @@ Contributions, issues, and feature requests are welcome!
 - 🔊 Add sound effects
 - 📱 Create mobile version
 
----
-
-## 📄 License
-
-MIT — use it freely, just give credit 😊
-
----
 
 > ⭐ If you like this project, drop a star on GitHub!
 
